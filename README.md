@@ -21,6 +21,8 @@
 1. Раскраска графа несовместимости.
 1. Экономия памяти для массивов.
 
+[Анализ качества решений семейства алгоритмов Ершова-Кожухина для раскраски графа](https://itstd-journal.ru/wp-content/uploads/2024/03/ANALYSIS-OF-SOLUTION-QUALITY-OF-THE-FAMILY-OF-YERSHOV-KOZHUKHIN-ALGORITHMS-FOR-GRAPH-COLORIN.pdf)
+
 ## Заключительная часть
 
 [Слайды](soviet_compilers_3.pdf) и Видео пока не готово
