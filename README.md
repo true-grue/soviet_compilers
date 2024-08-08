@@ -25,11 +25,10 @@
 
 ## Заключительная часть
 
-[Слайды](soviet_compilers_3.pdf) и Видео пока не готово
+[Слайды](soviet_compilers_3.pdf) и [Видео](https://www.youtube.com/watch?v=d3qhqHmj5yo)
 
 1. Смешанные вычисления.
 1. Рефал и методы его компиляции.
 1. Структурный синтез программ.
 
 [Рефал-компилятор](https://github.com/true-grue/refalpy)
-
